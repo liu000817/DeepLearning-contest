@@ -1,1 +1,2 @@
 # DeepLearning-contest
+This is a deep learning Kaggle competition. The task is to fine-tune a pre-trained Llama3-8B model to predict the correctness of answers to math questions based on a provided solution and reasoning. The competition required the use of supervised fine-tuning (SFT) and innovative methods to improve the model’s accuracy. Through various experimentation on parameter and model adjustments, the team successfully improved the accuracy from 49.8% to 84.027%.
